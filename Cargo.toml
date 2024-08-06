@@ -19,4 +19,5 @@ chrono = "0.4.38"
 tokio = { version = "1.39.2", features = ["sync"] }
 yup-oauth2 = "11.0.0"
 base64 = "0.22.1"
+cloud-storage = { version = "0.11.1" }
 

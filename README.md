@@ -1,4 +1,6 @@
-# Google Play Developer API
+# Google Play Discover API (WIP)
+
+Google Play Discover is a new way to discover apps on Google Play, powered by Gemini & Google Cloud Embeddings.
 
 ## Setup 
 
